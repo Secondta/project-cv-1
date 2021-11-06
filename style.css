@@ -1,0 +1,25 @@
+.all {
+    margin-left: 8cm;
+}
+body {
+    background-color: #c0bfbf;
+}
+img {
+    width: 5cm;
+}
+
+.box1 { 
+    background-color: #f1f1f1;
+    width: 5cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    height: 23cm;
+}
+.box2 {
+    background-color: white;
+    position: absolute;
+    margin-left: 6cm;
+    padding: 1cm;
+    width: 10cm;
+    height: 21cm;
+}
